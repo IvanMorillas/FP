@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701443915 source:/home/milax/FP/Practica2/Morse/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
